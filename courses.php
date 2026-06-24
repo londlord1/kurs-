@@ -1,9 +1,9 @@
 <?php
 // Подключение к базе данных (данные Beget)
-$host = 'localhost';               // или 'u95122db.beget.tech', если localhost не работает
-$db   = 'u95122db_1';
-$user = 'u95122db_1';
-$pass = 'f*b8ltWjDhqA';
+$host = 'localhost';
+$db   = 'student17_database';
+$user = 'student17_dbuser';
+$pass = 'P@ssw0rd_17';
 $charset = 'utf8mb4';
 
 $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
